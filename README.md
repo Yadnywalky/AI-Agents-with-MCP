@@ -1,1 +1,28 @@
-# AI-Agents-with-MCP
+# AI Agents with MCP
+
+## 📌 Project Overview
+This project demonstrates how to build **AI Agents** using **Google ADK**.  
+It showcases how agents interpret instructions, generate responses, and process actions with intelligent workflows.
+
+The notebook includes:
+- Initializing AI Agents  
+- Using Google ADK models  
+- Helper utilities  
+- Prompt and response handling  
+- Structured output generation  
+
+---
+
+## 🚀 Features
+- Single-agent intelligent workflow  
+- Modular and clean architecture  
+- Real-time response streaming  
+- Easy to extend and customize  
+
+---
+
+## 🛠️ Technologies Used
+- Python  
+- Google ADK  
+- Generative AI Models  
+- Jupyter Notebook  
